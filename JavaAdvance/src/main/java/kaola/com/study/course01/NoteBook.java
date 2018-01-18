@@ -1,4 +1,4 @@
-package kaola.com.study.course01.notbook;
+package kaola.com.study.course01;
 
 /**
  * @Author:zouw
